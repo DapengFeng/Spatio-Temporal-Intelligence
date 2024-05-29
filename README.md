@@ -1,4 +1,4 @@
-# Spatio-Temporal-Intelligence
+# SpatioTemporal Intelligence
 
 Spatiotemporal Intelligence refers to the ability to process, analyze, and understand data that has both spatial (geographic or physical space) and temporal (time-related) dimensions. This concept is particularly relevant in fields that deal with large volumes of data that change over time and across different locations. Here's a more detailed look:
 
